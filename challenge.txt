@@ -1,2 +1,2 @@
-this is my challenge content
+this is my challenge content - I've added to the first line
 Now I've added some more text to my file
